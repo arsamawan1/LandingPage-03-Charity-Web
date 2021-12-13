@@ -1,0 +1,32 @@
+body {
+    font-family: Montserrat !important;
+}
+
+.top-bar {
+    background: #4bb543 !important;
+    height: 1.8rem;
+}
+
+.top-bar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: lighter;
+}
+
+.nav-item {
+    font-weight: 600 !important;
+    padding: 6px;
+}
+
+.nav-item a:hover {
+    color: #4bb543 !important;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.btn {
+    background-color: #4bb543;
+}
